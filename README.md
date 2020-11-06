@@ -1,0 +1,2 @@
+# Assassin
+Type and execute
